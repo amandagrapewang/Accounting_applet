@@ -7,6 +7,7 @@
 #include <string.h>
 #include <string>
 #include <iostream>
+//addsomething
 using namespace std;
 struct Grammar
 {
