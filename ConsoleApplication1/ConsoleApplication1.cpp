@@ -204,6 +204,7 @@ int main()
 		{ ////已经到了文件末尾，可以直接退出
 			////end of file
 			break;
+			//addsomething
 		}
 	}
 	fclose(source); /// 用完后要关闭文件指针
